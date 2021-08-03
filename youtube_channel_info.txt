@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 BNC | Makkah Live |  |
-https://www.youtube.com/watch?v=aZm_mLxlOcE
+https://www.youtube.com/watch?v=nZKKVdAhMwQ
